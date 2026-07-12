@@ -1,7 +1,7 @@
 ### Hi, I'm Shicheng Guo 👋
 **Senior Director, Translational Genetics & Data Science (TGDS) @ Arrowhead Pharmaceuticals**
 
-Every year, we recruit 3 regular intern positions across the following tracks:
+Every year, my team recruit 3 regular intern positions across the following tracks:
 1. **Computational Biology** — Leverage AI to develop bioinformatics pipelines to understand RNA and disease biology.
 2. **Human Biobank Genetics** — Leverage AI to mine population-scale biobank data (e.g., UK Biobank) to identify siRNA drug target.
 3. **AI Agents & Agentic AI** — Explore AI agents and Agentic AI to accelerate drug discovery.
