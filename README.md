@@ -9,4 +9,4 @@ Every year, we recruit 3 regular intern positions across the following tracks:
 **Recruiting timeline:** Applications open in January, interviews are completed by March, and selected interns onboard in June.
 If you're passionate about applying AI to advance human genetics and RNA therapeutics, we'd love to have you on the team — feel free to reach out and apply!
 
-[LinkedIn](https://www.linkedin.com/in/shg047/) · [GitHub](https://github.com/shicheng-guo)
+[LinkedIn](https://www.linkedin.com/in/shg047/) · [Bluesky]([https://github.com/shicheng-guo](https://bsky.app/profile/shihcheng.bsky.social)
