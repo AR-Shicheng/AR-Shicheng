@@ -5,6 +5,7 @@ Every year, my team recruit 3 regular intern positions across the following trac
 1. **Computational Biology** — Leverage AI to develop bioinformatics pipelines to understand RNA and disease biology.
 2. **Human Biobank** — Leverage AI to mine population-scale biobank data (e.g., UK Biobank) to identify siRNA drug target.
 3. **AI Agents & Agentic AI** — Explore AI agents and Agentic AI to accelerate drug discovery.
+4. **Human Data Integration & AI** — Leverage AI to integrate biobank, real-world evidence (RWE), and clinical trial data.
 
 **Recruiting timeline:** Applications open in Feburay, interviews are completed by March, and selected interns onboard in June and closed in september.
 If you're passionate about applying AI to advance human genetics and RNA therapeutics, we'd love to have you on the team — feel free to reach out and apply!
